@@ -4,7 +4,7 @@ A simple expense tracker web application built with Node.js and Express. Users a
 
 ## Live link
 
-[Open the live application](https://YOUR-APP.vercel.app)
+[Open the live application](https://system-design-project-ten.vercel.app)
 
 ## Features
 
@@ -66,6 +66,6 @@ The workflow `.github/workflows/ci.yml` runs on every push and on every pull req
 
 | Member | Role |
 |---|---|
-| MEMBER A NAME | Application and tests |
-| MEMBER B NAME | Docker and Vercel deployment |
-| MEMBER C NAME | CI/CD pipeline and README |
+| Sahil Yadav | Application and tests |
+| Himanshu Gurjar | Docker and Vercel deployment |
+| Suraj Nair | CI/CD pipeline and README |
