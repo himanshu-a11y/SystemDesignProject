@@ -1,0 +1,29 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "Simple expense tracker web app",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshu-a11y/SystemDesignProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/himanshu-a11y/SystemDesignProject/issues"
+  },
+  "homepage": "https://github.com/himanshu-a11y/SystemDesignProject#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2",
+    "supertest": "^7.3.2"
+  }
+}
