@@ -1,4 +1,11 @@
 node_modules
 .git
 .github
+.env
+.env.*
+.vercel
+coverage
 tests
+docs
+docker-compose.yml
+*.log
